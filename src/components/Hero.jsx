@@ -3,9 +3,9 @@ export default function Hero() {
         <>
             <h5>Complete this training program to get SHREDDED</h5>
             <ol className="benefits=list">
-                <li>Follow a simple program with great results: </li>
+                <li>Follow a simple program with great results </li>
                 <li>Get fit, healthy, and shredded</li>
-                <li>Learn more of the gym, come for the trainning</li>
+                <li>Learn more of the gym, come for the training</li>
                 <li>Become a life time gym browth, it is for change ❤</li>
 
             </ol>

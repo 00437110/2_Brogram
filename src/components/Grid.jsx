@@ -14,9 +14,7 @@ export default function Grid() {
         
     }) 
 
-    function handleSave(index, data) {  
-
-        
+    function handleSave(index, data) {          
         const newObj = { 
             ...savedWorkouts, 
             [index]: { 
